@@ -1,8 +1,8 @@
 ### Hi there, i'm Gabriel Raeli👋
 
-- 🔭 I’m currently working with front-end
-- 🌱 I’m currently learning Vue.Js
-- 📫 How to reach me: gabriel.felipo2010@gmail.com
+- I’m currently working with front-end
+- I’m currently learning Vue.Js
+- How to reach me: gabriel.felipo2010@gmail.com
 
 <div>
   <a href="https://github.com/gabrielfelipo">
