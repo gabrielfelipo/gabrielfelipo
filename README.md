@@ -1,7 +1,6 @@
 ### Hi there, i'm Gabriel Raeli👋
 
-- I’m currently working with front-end
-- I’m currently learning Vue.Js
+- I’m currently learning HTML and CSS
 - How to reach me: gabriel.felipo2010@gmail.com
 
 <div>
