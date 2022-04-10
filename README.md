@@ -1,6 +1,6 @@
 ### Hi there, i'm Gabriel Raeli👋
 
-- I’m currently learning HTML and CSS
+- I’m currently learning Swift
 - How to reach me: gabriel.felipo2010@gmail.com
 
 <div>
