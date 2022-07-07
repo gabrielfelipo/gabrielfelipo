@@ -1,7 +1,6 @@
 ### Hi there, i'm Felipo Raeli
 
 - I’m currently learning Swift
-- How to reach me: gabriel.felipo2010@gmail.com
 
 <div>
   <a href="https://github.com/gabrielfelipo">
