@@ -1,4 +1,4 @@
-### Hi there, i'm Felipo Raeli
+Felipo Raeli
 
 - I’m currently learning Swift
 
