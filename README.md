@@ -4,8 +4,8 @@ Felipo Raeli
 
 <div>
   <a href="https://github.com/gabrielfelipo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfelipo&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelipo&layout=compact&langs_count=7&theme=tokyonight"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfelipo&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelipo&layout=compact&langs_count=7&theme=tokyonight"/> -->
 </div>
   
  
